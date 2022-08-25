@@ -10,14 +10,14 @@ const video = {
     {
       id: 1,
       user: "duanebot",
-      comment: "first!",
+      comment: "first!"
     },
     {
       id: 2,
       user: "gaeron",
-      comment: "What a great tutorial!",
-    },
-  ],
+      comment: "What a great tutorial!"
+    }
+  ]
 };
 
 export default video;
